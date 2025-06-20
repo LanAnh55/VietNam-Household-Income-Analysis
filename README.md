@@ -73,4 +73,9 @@ The effect of education on income: Education increases income by more than 5%.
 
 Analyze the quadratic relationship between age and income: Income increases with age, peaking at 60 years, then declines.
 
-THE END.
+---
+
+**Version:** 1.1.0
+
+**Contact:** Nguyễn Thị Lan Anh ([lananh2004@gmail.com](lananh2004@gmail.com))
+
